@@ -1,7 +1,5 @@
 # Data-Centric ML Course Project
 
-[![CI Status](https://github.com/<YOUR_GITHUB_USERNAME>/data_for_ml_course/actions/workflows/ci.yml/badge.svg)](https://github.com/<YOUR_GITHUB_USERNAME>/data_for_ml_course/actions/workflows/ci.yml)
-
 This repository contains the project for the Data-Centric ML course.
 
 ## Table of Contents
