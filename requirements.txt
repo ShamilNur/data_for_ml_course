@@ -1,0 +1,22 @@
+requests
+pandas
+numpy
+matplotlib
+scikit-learn
+modAL
+country_converter
+seaborn
+dagster
+pytest
+flake8
+jupyter
+nbconvert
+pytest-cov
+ipykernel 
+plotly
+missingno
+scipy
+sklearn # Alias for scikit-learn
+scikit-activeml
+papermill
+joblib
